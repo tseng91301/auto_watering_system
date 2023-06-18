@@ -1,0 +1,13 @@
+{
+  "reservations": [
+    {
+      "start_time": 480,   
+      "duration": 30       
+    },
+    {
+      "start_time": 600,   
+      "duration": 45       
+    }
+    
+  ]
+}
